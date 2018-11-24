@@ -1,4 +1,4 @@
-# CroxyProxy Web Proxy Extension Repository
+# CroxyProxy web proxy Chrome extension repository
 
 ![CroxyProxy web proxy](https://github.com/croxy-proxy-official/extension/raw/master/image/logo.png)
 
