@@ -1,4 +1,6 @@
-# CroxyProxy Extension Repository
+# CroxyProxy Web Proxy Extension Repository
+
+![CroxyProxy web proxy](https://github.com/croxy-proxy-official/extension/raw/master/image/logo.png)
 
 Current extension version: **0.98.9**, update date: **2018-11-24**.
 
@@ -13,8 +15,16 @@ Current extension version: **0.98.9**, update date: **2018-11-24**.
 
 2. Download the extension using the link [https://github.com/croxy-proxy-official/extension/raw/master/CroxyProxyExtension.crx](https://github.com/croxy-proxy-official/extension/raw/master/CroxyProxyExtension.crx)
 3. Visit Chrome extensions page chrome://extensions/
+
+   ![Extensions page](https://github.com/croxy-proxy-official/extension/raw/master/image/extensions.png)
+
 4. Enable "Developer mode". Dev mode switch is in the top right corner.
+
+   ![Developer mode switch](https://github.com/croxy-proxy-official/extension/raw/master/image/dev.png)
+
 5. Drag and drop the downloaded extension .crx file to the extensions page.
 6. Push "Add extension" button in the popup dialog window.
+
+   ![Confirmation popup](https://github.com/croxy-proxy-official/extension/raw/master/image/confirmation.png)
 
 That's it :) Don't forget to visit this page periodically and update the extension manually.
