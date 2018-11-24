@@ -6,7 +6,7 @@ Current extension version: **0.98.9**, update date: **2018-11-24**.
 
 **Download link: [https://github.com/croxy-proxy-official/extension/raw/master/CroxyProxyExtension.crx](https://github.com/croxy-proxy-official/extension/raw/master/CroxyProxyExtension.crx)**
 
-**Website: [Free Web Proxy And The Most Advanced Online Proxy](https://www.croxyproxy.com/)
+Website: [Free Web Proxy And The Most Advanced Online Proxy](https://www.croxyproxy.com/)
 
 ## To install manually follow the steps:
 
