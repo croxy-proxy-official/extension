@@ -27,4 +27,4 @@ Current extension version: **0.98.9**, update date: **2018-11-24**.
 
    ![Confirmation popup](https://github.com/croxy-proxy-official/extension/raw/master/image/confirmation.png)
 
-That's it :) Don't forget to visit this page periodically and update the extension manually.
+That's it :) Don't forget to visit this page periodically and update the CroxyProxy web proxy extension manually.
