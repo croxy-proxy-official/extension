@@ -2,7 +2,7 @@
 
 ![CroxyProxy web proxy](https://github.com/croxy-proxy-official/extension/raw/master/image/logo.png)
 
-Current extension version: **0.99.2**, update date: **2018-12-05**.
+Current extension version: **0.99.3**, update date: **2019-01-24**.
 
 **Download link: [https://github.com/croxy-proxy-official/extension/raw/master/CroxyProxyExtension.crx](https://github.com/croxy-proxy-official/extension/raw/master/CroxyProxyExtension.crx)**
 
