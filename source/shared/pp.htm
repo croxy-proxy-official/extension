@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>CroxyProxy</title>
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css"/>
+    <link href="bootstrap/css/bootstrap-theme.css" rel="stylesheet" type="text/css"/>
+    <link href="components/switchery/dist/switchery.css" rel="stylesheet" type="text/css"/>
+    <link href="components/Font-Awesome/web-fonts-with-css/css/fontawesome-all.css" rel="stylesheet" type="text/css"/>
+    <link href="pp.css" rel="stylesheet" type="text/css"/>
+
+    <script src="pp.js"></script>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</head>
+<body>
+    <div id="logo">
+        <img src="images/logo.png">
+    </div>
+    <div id="message">
+        <span class="fas fa-spinner fa-spin"></span>
+        <span id="messageText"></span>
+        <span id="messageShowMore"><a href="#">Show more</a></span>
+        <span id="messageExtendedText">
+            If it takes more than 10 minutes <a href="https://ismyinternetworking.com/" target="_blank">test your internet connection status</a>
+            and if the connection works fine please try to use the proxy a bit later or contact support.
+            Most likely the extension is blocked by your organization or ISP firewall or it is a server related fault.
+        </span>
+    </div>
+    <div id="proxyForm">
+        <form id="request">
+            <button id="requestSubmit" type="submit" class="btn btn-primary btn-default"></button>
+        </form>
+    </div>
+    <div id="globalProxyModeSwitch">
+        <div id="switch-container">
+            <h4>Global proxy switch</h4>
+            <input title="Enable" id="switch" type="checkbox" />
+        </div>
+    </div>
+    <div id="info">
+        To access a specific website push "Launch..." button above and then use the proxy form or use right click menu of a link/web page.
+        <span id="globalProxyModeText">To open every website you visit through the proxy turn on the global proxy switch.</span>
+    </div>
+    <div id="twitter">
+        <a class="twitterButton" href="https://twitter.com/croxy_proxy" target="_blank">
+            <i class="fab fa-twitter" aria-hidden="true"></i>
+            <div class="twitterButtonText">@croxy_proxy Twitter</div>
+        </a>
+        <div class="twitterWidget">
+            <a href="https://twitter.com/croxy_proxy?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">
+                Follow @croxy_proxy
+            </a>
+        </div>
+    </div>
+    <div id="text">
+        <a id="linkFeedback" target="_blank" href="https://www.croxyproxy.com/feedback/form">Feedback and support</a> |
+        <a id="linkTerms" target="_blank" href="https://www.croxyproxy.com/terms">Terms of use</a>
+    </div>
+</body>
+</html>
